@@ -29,3 +29,6 @@ add_subdirectory(samples/deviceBinding)
 add_subdirectory(samples/mediaBinding)
 add_subdirectory(samples/ptzBinding)
 #add_subdirectory(samples/remoteDiscovery)
+
+add_subdirectory(api)
+add_subdirectory(test)

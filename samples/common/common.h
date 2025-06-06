@@ -6,8 +6,8 @@
 #define ONVIFCLIENT_GSOAP_COMMON_H
 
 #define USERNAME "admin"
-#define PASSWORD "admin"
-#define HOSTNAME "http://192.168.1.164/onvif/device_service"
+#define PASSWORD "Beta2025."
+#define HOSTNAME "http://192.168.1.249/onvif/device_service"
 #define PROFILETOKEN "Profile_1"
 
 inline void CLEANUP_SOAP(struct soap* soap) {
